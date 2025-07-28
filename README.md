@@ -29,7 +29,7 @@ DATA       →    GPIO 21
 GND        →    GND
 ```
 
-![[assets/IMG_3441.JPEG]]
+![[./assets/IMG_3441.JPEG]]
 
 If you connect to another pin make sure to set it in main.cpp
 ## Software Setup 💻
